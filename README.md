@@ -13,11 +13,7 @@
 * 5、STL
 
 刷题部分
-* 1、LeetCode刷题
-* 2、华为OJ
-
-单元测试部分
-* 1、以上各内容的单元测试
+* 1、LeetCode-Explore & Problems
 
 欢迎交流
 邮箱 1043317319@qq.com
